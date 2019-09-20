@@ -22,3 +22,17 @@ With great enthusiasm, I intend to complete this course successfully.
   * JavaScript  
   * Git   
   
+### Code examples    
+    
+  ```JavaScript  
+  function smallEnough(a, limit){  
+   return a.every(element => element <= limit)  
+  }  
+  ```  
+
+### Education   
+
+Place: *Belarusian National Technical University*      
+Specialization: *Standardization, Metrology and Information Systems*   
+Degree: *bachelor*  
+
