@@ -36,3 +36,15 @@ Place: *Belarusian National Technical University*
 Specialization: *Standardization, Metrology and Information Systems*   
 Degree: *bachelor*  
 
+### Experience  
+You can find my accounts at:  
+  
+* [Codewars](https://www.codewars.com/users/negj) - my trainings in JavaScript 
+* [Codecademy](https://www.codecademy.com/profiles/MaksimKryshneu) - completed courses of HTML, CSS, Git, Command line  
+* [GitHub](https://github.com/Kr-Mx) - my present and future works     
+* [Duolingo](https://www.duolingo.com/profile/MaksKrysh) - completed English course  
+  
+### English   
+*Pre-Intermediate (A2)* 
+    
+[Back](#maksim-kryshneu)
