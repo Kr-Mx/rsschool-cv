@@ -84,3 +84,76 @@ body {
   letter-spacing: 2px;
   font-size: 20px;
 }
+
+.container {
+  display: grid;
+  grid-template-areas: "su" "cs" "ss" "ce" "ex" "ed";
+  justify-content: center;
+}
+
+.contacts {
+  grid-area: cs;
+}
+
+.summary {
+  grid-area: su;
+}
+
+.skills {
+  grid-area: ss;
+}
+
+.code-examples {
+  grid-area: ce;
+}
+
+.experience {
+  grid-area: ex;
+}
+
+.education {
+  grid-area: ed;
+}
+
+.container section {
+  position: relative;
+  width: 100%;
+}
+
+.container section p {
+  margin: 0 30px;
+  line-height: 2;
+  text-align: justify;
+  font-family: "Roboto Slab", "Times New Roman", serif;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.heading {
+  margin: 30px;
+  color: #2f4f4f;
+  font-family: "Roboto Slab", "Times New Roman", serif;
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  text-align: center;
+}
+
+
+.education .description {
+  margin-bottom: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: #bb2222;
+}
+
+.footer {
+  border-top: 10px dotted #2f4f4f;
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto Slab", "Times New Roman", serif;
+}
+
